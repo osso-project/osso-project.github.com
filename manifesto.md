@@ -99,7 +99,7 @@ Osso is...
 * **Open**
 
   Osso is open source, [hosted on Github][osso-github], and available under the
-  [Apache License 2.0][osso-licenses]
+  [Apache License 2.0][osso-license]
 
   Osso's event schema is defined as an [Apache Avro][apache-avro] schema, making
   Osso events compatible with any system that understands Avro schemas or
