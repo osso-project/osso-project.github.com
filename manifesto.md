@@ -1,5 +1,6 @@
 ---
 title: Osso - A modern standard for event-oriented data
+layout: default
 ---
 
 # Osso - A modern standard for event-oriented data
