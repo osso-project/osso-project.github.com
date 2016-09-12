@@ -1,3 +1,7 @@
+---
+title: Osso - A modern standard for event-oriented data
+---
+
 # Osso - A modern standard for event-oriented data
 
 Our world is made up of _events_. We as developers commonly work with log

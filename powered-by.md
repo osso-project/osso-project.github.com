@@ -1,3 +1,7 @@
+---
+title: Osso - Powered By
+---
+
 # Powered By Osso
 
 Tell us who you are, and how you're using or supporting Osso. Submit a pull
