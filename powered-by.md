@@ -1,5 +1,5 @@
 ---
-title: Osso - Powered By
+title: Powered By
 ---
 
 # Powered By Osso

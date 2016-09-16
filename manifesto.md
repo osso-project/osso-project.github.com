@@ -1,5 +1,5 @@
 ---
-title: Osso - A modern standard for event-oriented data
+title: Manifesto
 layout: default
 ---
 
