@@ -9,6 +9,7 @@ different people. Its original development was funded by [Rocana][rocana].
 Code:
 * Eric Sammer ([twitter][twitter-esammer])
 * Joey Echeverria ([twitter][twitter-fwiffo])
+* Mark Roddy ([twitter][twitter-roddy])
 
 Osso relies heavily on the work done by the [Apache Avro][apache-avro]
 community.
@@ -27,6 +28,7 @@ Osso is licensed under the Apache License 2.0.
 [github-pages]: https://pages.github.com/
 [twitter-esammer]: https://twitter.com/esammer
 [twitter-fwiffo]: https://twitter.com/fwiffo
+[twitter-roddy]: https://twitter.com/digitallogic
 [li-bruno]: https://www.linkedin.com/in/andreabruno
 [jekyll-now]: http://themes.jekyllrc.org/jekyll-now/
 [github-bclark]: https://github.com/barryclark
