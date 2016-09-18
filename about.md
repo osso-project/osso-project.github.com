@@ -20,6 +20,9 @@ This website uses [Jekyll][jekyll] and a modified version of the
 [Jekyll Now][jekyll-now] theme by [Barry Clark][github-bclark]. It's hosted
 using [Github Pages][github-pages].
 
+Special thanks to Don Brown, Bryce Hein, Michelle Helling, William Kulju,
+Mike Tomlinson, and Thomas Wreh for all their help making Osso happen.
+
 Osso is licensed under the Apache License 2.0.
 
 [rocana]: http://www.rocana.com/
