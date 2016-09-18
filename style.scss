@@ -75,6 +75,10 @@ a {
   &:hover, &:active {
     color: $blue;
   }
+
+  i {
+    color: $black;
+  }
 }
 
 ul, ol {
@@ -269,6 +273,21 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+}
+
+p.about-blurb {
+  text-align: center;
+  font-style: italic;
+}
+
+.feature-icon-container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+
+.feature-icon-item {
+  text-align: center;
 }
 
 .wrapper-footer {

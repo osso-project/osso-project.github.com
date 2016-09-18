@@ -11,17 +11,38 @@ layout: default
   and processing-efficient.
 </p>
 
+<div class="feature-icon-container">
+  <div class="feature-icon-item">
+    <p>
+      <a href="{{ site.baseurl }}/manifesto.html"><i class="fa fa-file-text fa-5x" aria-hidden="true"></i></a>
+    </p>
+    <p>
+      <a href="{{ site.baseurl }}/manifesto.html">Read the Manifesto</a>
+    </p>
+  </div>
+  <div class="feature-icon-item">
+    <p>
+      <a href="https://github.com/{{ site.footer-links.github }}"><i class="fa fa-github fa-5x" aria-hidden="true"></i></a>
+    </p>
+    <p>
+      <a href="https://github.com/{{ site.footer-links.github }}">Osso On Github</a>
+    </p>
+  </div>
+</div>
+
+{% if site.posts.length > 0 %}
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+  <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+    <div class="entry">
+      {{ post.excerpt }}
+    </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+  </article>
   {% endfor %}
 </div>
+{% endif %}
