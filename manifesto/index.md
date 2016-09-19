@@ -161,7 +161,7 @@ Osso is...
 If you build or integrate event-oriented systems, join us in building a
 modern standard at the [Osso project][osso-github].
 
-Show your supported for Osso by adding yourself to the [list of product and
+Show your support for Osso by adding yourself to the [list of product and
 projects powered by Osso][osso-poweredby].
 
 [osso-poweredby]: {{ site.github-osso-site }}/blob/master/powered-by.md
