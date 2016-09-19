@@ -7,6 +7,7 @@ Osso is the amalgamation of the hard work, research, and testing of a number of
 different people. Its original development was funded by [Rocana][rocana].
 
 Code:
+
 * Eric Sammer ([twitter][twitter-esammer])
 * Joey Echeverria ([twitter][twitter-fwiffo])
 * Mark Roddy ([twitter][twitter-roddy])
