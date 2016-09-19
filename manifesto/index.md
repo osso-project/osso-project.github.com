@@ -106,15 +106,15 @@ Osso is...
   Osso events compatible with any system that understands Avro schemas or
   serialized data.
 
-  [Osso's schema and semantics are defined][osso-readme] separately for cases
+  [Osso's schema and semantics are defined][osso-overview] separately for cases
   where highly-specialized serialization is more important than the ease of use
   or compatibility afforded by Avro. This also makes Osso compatibility layers
   easy to implement.
 
-[osso-github]: https://github.com/osso-project/osso
-[osso-license]: https://github.com/osso-project/osso/blob/master/LICENSE
+[osso-github]: {{ site.github-osso }}
+[osso-license]: {{ site.github-osso }}/blob/master/LICENSE
 [apache-avro]: http://avro.apache.org/
-[osso-readme]: https://github.com/osso-project/osso/blob/master/README.md
+[osso-overview]: {{ site.baseurl }}/docs/overview.html
 
 * **Easy and Intuitive**
 
@@ -164,4 +164,4 @@ modern standard at the [Osso project][osso-github].
 Show your supported for Osso by adding yourself to the [list of product and
 projects powered by Osso][osso-poweredby].
 
-[osso-poweredby]: https://github.com/osso-project/osso-project.github.io/blob/master/powered-by.md
+[osso-poweredby]: {{ site.github-osso-site }}/blob/master/powered-by.md
