@@ -11,6 +11,8 @@ Code:
 * Eric Sammer ([twitter][twitter-esammer])
 * Joey Echeverria ([twitter][twitter-fwiffo])
 * Mark Roddy ([twitter][twitter-roddy])
+* Alan Gardner ([twitter][twitter-alanctgardner])
+* Matt Dailey ([twitter][twitter-mattdailey])
 
 Osso relies heavily on the work done by the [Apache Avro][apache-avro]
 community.
@@ -33,6 +35,8 @@ Osso is licensed under the Apache License 2.0.
 [twitter-esammer]: https://twitter.com/esammer
 [twitter-fwiffo]: https://twitter.com/fwiffo
 [twitter-roddy]: https://twitter.com/digitallogic
+[twitter-alanctgardner]: https://twitter.com/alanctgardner
+[twitter-mattdailey]: https://twitter.com/matthew_dailey1
 [li-bruno]: https://www.linkedin.com/in/andreabruno
 [jekyll-now]: http://themes.jekyllrc.org/jekyll-now/
 [github-bclark]: https://github.com/barryclark
