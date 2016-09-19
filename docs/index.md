@@ -18,3 +18,7 @@ Learn how to get Osso and use it in your projects.
 [Frequently Asked Questions](faq.html)
 
 Read some common questions about Osso (and their answers)!
+
+[Contributing to Osso](contributing.html)
+
+Guidelines and processes for contributing code to Osso.
