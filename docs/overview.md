@@ -187,4 +187,5 @@ The appropriate behavior is to parse the timestamp from the original event,
 (including syslog) can present challenges such as omitting information - the
 year and time zone, in this example - but the proxy producer must resolve these
 issues and produce a valid timestamp. Similarly, proxy producers must also
-perform time zone conversion if the received timestamp is not al
+perform time zone conversion if the received timestamp is not aligned with the 
+time the event was originally generated.
